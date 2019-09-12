@@ -1,2 +1,2 @@
 # tree-map
-tree map video/game sale app
+tree map video or game sale app 
